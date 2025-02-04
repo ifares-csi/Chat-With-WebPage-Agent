@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+langchain-community
+faiss-cpu
+langchain-text-splitters
+langchain-openai
+pandas
+openai
+streamlit
+validators
+requests

@@ -1,7 +1,7 @@
 # Chat With WebPage 
 
 ## Overview
-This project is a **Streamlit-based Webpage chat Tool** that allows users to input a webpage URL and a custom query to retrieve response content using **LangChain** and **OpenAI GPT-4o**. The application processes webpage content, extracts relevant text, generates context-aware summaries, and answer the questions accodring the the content of the webpage.
+This project is a **RAG application for chatting with Webpages** that allows users to input a webpage URL and a custom query to retrieve response content using **LangChain** and **OpenAI GPT-4o**. The application processes webpage content, extracts relevant text, generates context-aware summaries, and answer the questions accodring the the content of the webpage.
 
 ## Features
 - **Extracts webpage content** automatically.
